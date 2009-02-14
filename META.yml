@@ -16,12 +16,12 @@ no_index:
     - inc
     - t
 requires:
-  AnyEvent::XMPP: 0
+  AnyEvent::XMPP: 0.3
   Class::Accessor::Fast: 0
   Config::Any: 0
-  DateTime: 0
   Log::Log4perl: 0
-  Net::Twitter: 0
+  MIME::Base64: 0
+  Net::Twitter: 2.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02

@@ -1,4 +1,6 @@
 Changes
+imgs/cabal-logo-icon.png
+imgs/cabal-logo.png
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
 inc/Module/Install/AutoInstall.pm
@@ -18,6 +20,7 @@ MANIFEST
 META.yml
 README
 Roadmap.mdown
+script/cabal-avatar.png
 script/cabal.pl
 script/samplecfg.yml
 t/00-load.t
